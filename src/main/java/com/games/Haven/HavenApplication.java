@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HavenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HavenApplication.class, args);
+    SpringApplication.run(HavenApplication.class, args);
 	}
 
 }
